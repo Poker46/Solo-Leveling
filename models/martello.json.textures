@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "stripped_oak_log",
+        "1": "gold_block",
+        "2": "netherite_block_1"
+      },
+      "name": "default"
+    }
+  }
+}

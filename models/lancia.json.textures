@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "gold_block",
+        "1": "lapis_block",
+        "2": "obsidian",
+        "3": "prismarine"
+      },
+      "name": "default"
+    }
+  }
+}

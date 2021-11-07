@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "redstone_block",
+        "1": "crying_obsidian",
+        "2": "amethyst_block"
+      },
+      "name": "default"
+    }
+  }
+}

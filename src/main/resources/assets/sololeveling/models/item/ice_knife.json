@@ -1,0 +1,10 @@
+{
+  "parent": "sololeveling:custom/small_knife",
+  "textures": {
+    "1": "sololeveling:blocks/ice",
+    "2": "sololeveling:blocks/blue_ice",
+    "3": "sololeveling:blocks/obsidian",
+    "4": "sololeveling:blocks/prismarine",
+    "particle": "sololeveling:items/hammer"
+  }
+}

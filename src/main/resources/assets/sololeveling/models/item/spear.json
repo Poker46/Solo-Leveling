@@ -1,0 +1,10 @@
+{
+  "parent": "sololeveling:custom/lancia",
+  "textures": {
+    "0": "sololeveling:blocks/gold_block",
+    "1": "sololeveling:blocks/lapis_block",
+    "2": "sololeveling:blocks/obsidian",
+    "3": "sololeveling:blocks/prismarine",
+    "particle": "sololeveling:items/spear"
+  }
+}

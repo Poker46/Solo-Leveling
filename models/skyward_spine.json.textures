@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "skyward_spine_texture"
+      },
+      "name": "default"
+    }
+  }
+}

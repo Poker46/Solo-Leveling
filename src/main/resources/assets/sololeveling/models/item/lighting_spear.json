@@ -1,0 +1,7 @@
+{
+  "parent": "sololeveling:custom/skyward_spine",
+  "textures": {
+    "0": "sololeveling:blocks/skyward_spine_texture",
+    "particle": "sololeveling:items/hammer"
+  }
+}

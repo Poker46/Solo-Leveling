@@ -1,0 +1,347 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Pokerite",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pokerite"
+    },
+    {
+      "name": "PokeriteCore",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pokerite_core"
+    },
+    {
+      "name": "PokeriteToPokeriteCore",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pokerite_to_pokerite_core"
+    },
+    {
+      "name": "SuperCore",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "super_core"
+    },
+    {
+      "name": "PokeriteCoreToSuperCore",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pokerite_core_to_super_core"
+    },
+    {
+      "name": "PokeriteOre",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pokerite_ore"
+    },
+    {
+      "name": "FinalSword",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "final_sword"
+    },
+    {
+      "name": "SwordCrafting",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sword_crafting"
+    },
+    {
+      "name": "EnderPhase",
+      "type": "livingentity",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_phase"
+    },
+    {
+      "name": "Sao",
+      "type": "loottable",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sao"
+    },
+    {
+      "name": "Viking",
+      "type": "livingentity",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "undead"
+    },
+    {
+      "name": "Spear",
+      "type": "tool",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spear"
+    },
+    {
+      "name": "Tospear",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tospear"
+    },
+    {
+      "name": "TrainingStaff",
+      "type": "tool",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "training_staff"
+    },
+    {
+      "name": "SuperStick",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "super_stick"
+    },
+    {
+      "name": "StickToSuperStick",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stick_to_super_stick"
+    },
+    {
+      "name": "SuperStickToStaff",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "super_stick_to_staff"
+    },
+    {
+      "name": "NetheriteHammer",
+      "type": "tool",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "netherite_hammer"
+    },
+    {
+      "name": "Hammer",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hammer"
+    },
+    {
+      "name": "IceKnife",
+      "type": "tool",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ice_knife"
+    },
+    {
+      "name": "IceToKnife",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ice_to_knife"
+    },
+    {
+      "name": "Katana",
+      "type": "tool",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "katana"
+    },
+    {
+      "name": "FinalSwordToKatana",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "final_sword_to_katana"
+    },
+    {
+      "name": "Idt",
+      "type": "tab",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "idt"
+    },
+    {
+      "name": "SuperArrow",
+      "type": "rangeditem",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "super_arrow"
+    },
+    {
+      "name": "TheRock",
+      "type": "livingentity",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "the_rock"
+    },
+    {
+      "name": "LightingSpear",
+      "type": "tool",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lighting_spear"
+    },
+    {
+      "name": "S",
+      "type": "loottable",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "s"
+    },
+    {
+      "name": "Demon",
+      "type": "livingentity",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demon"
+    },
+    {
+      "name": "Destroyer",
+      "type": "tool",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "destroyer"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "entity.lol.ender_phase": "Rimuru",
+      "entity.sololeveling.the_rock": "The Rock",
+      "item.sololeveling.lighting_spear": "Lighting Spear",
+      "item.lol.final_katana": "Final Katana",
+      "item.lol.viking_spawn_egg": "Viking Spawn Egg",
+      "item.lol.the_rock_spawn_egg": "The Rock Spawn Egg",
+      "item.sololeveling.super_stick": "Super Stick",
+      "item.lol.super_stick": "Super Stick",
+      "item.sololeveling.super_arrow": "Super Arrow",
+      "item.sololeveling.training_staff": "Training Staff",
+      "item.sololeveling.demon_spawn_egg": "Great Demon Lord Spawn Egg",
+      "itemGroup.tabidt": "Idt",
+      "item.sololeveling.super_core": "Super Core",
+      "item.lol.super_arrow": "Super Arrow",
+      "item.sololeveling.pokerite_core": "Pokerite Core",
+      "entity.lol.the_rock": "The Rock",
+      "item.sololeveling.katana": "Katana",
+      "item.lol.ender_phase_spawn_egg": "Rimuru Spawn Egg",
+      "item.lol.super_core": "Super Core",
+      "item.sololeveling.ender_phase_spawn_egg": "Rimuru Spawn Egg",
+      "entity.sololeveling.ender_phase": "Rimuru",
+      "item.sololeveling.spear": "Spear",
+      "entity.sololeveling.undead": "undead",
+      "item.lol.katana": "Katana",
+      "item.lol.training_staff": "Training Staff",
+      "item.lol.pokerite": "Pokerite",
+      "entity.lol.viking": "Viking",
+      "item.sololeveling.final_sword": "Final Sword",
+      "item.sololeveling.undead_spawn_egg": "undead Spawn Egg",
+      "item.lol.final_sword": "Final Sword",
+      "item.lol.netherite_hammer": "Netherite Hammer",
+      "item.lol.lighting_spear": "Lighting Spear",
+      "block.lol.pokerite_ore": "Pokerite Ore",
+      "item.sololeveling.pokerite": "Pokerite",
+      "item.sololeveling.the_rock_spawn_egg": "The Rock Spawn Egg",
+      "item.lol.spear": "Spear",
+      "item.lol.pokerite_core": "Pokerite Core",
+      "item.sololeveling.netherite_hammer": "Netherite Hammer",
+      "block.sololeveling.pokerite_ore": "Pokerite Ore",
+      "item.sololeveling.ice_knife": "Ice Knife",
+      "entity.sololeveling.demon": "Great Demon Lord",
+      "item.lol.ice_knife": "Ice Knife",
+      "item.sololeveling.destroyer": "Destroyer"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "sololeveling",
+    "modName": "Solo Leveling",
+    "version": "1.0.0",
+    "author": "Riccardo, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.sololeveling",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100236710
+}

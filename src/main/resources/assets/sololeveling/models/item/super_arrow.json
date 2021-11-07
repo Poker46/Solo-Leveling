@@ -1,0 +1,7 @@
+{
+  "parent": "sololeveling:custom/arrow",
+  "textures": {
+    "0": "sololeveling:blocks/netherite_block_1",
+    "particle": "sololeveling:items/hammer"
+  }
+}

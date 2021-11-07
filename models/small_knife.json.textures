@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "ice",
+        "2": "blue_ice",
+        "3": "obsidian",
+        "4": "prismarine"
+      },
+      "name": "default"
+    }
+  }
+}

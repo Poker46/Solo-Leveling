@@ -1,0 +1,9 @@
+{
+  "parent": "sololeveling:custom/katana",
+  "textures": {
+    "0": "sololeveling:blocks/netherite_block_1",
+    "1": "sololeveling:blocks/gold_block",
+    "2": "sololeveling:blocks/obsidian",
+    "particle": "sololeveling:items/hammer"
+  }
+}

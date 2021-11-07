@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sololeveling:blocks/pokeriteore",
+    "particle": "sololeveling:blocks/pokeriteore"
+  }
+}

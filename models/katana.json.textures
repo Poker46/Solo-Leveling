@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "netherite_block_1",
+        "1": "gold_block",
+        "2": "obsidian"
+      },
+      "name": "default"
+    }
+  }
+}

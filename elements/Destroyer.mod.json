@@ -1,0 +1,30 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 1,
+    "texture": "hammer",
+    "customModelName": "lord_demon_sword:default",
+    "name": "Destroyer",
+    "specialInfo": [
+      "The great sword of Lord",
+      "the leader of Demigods"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:Idt"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 2.0,
+    "enchantability": 2,
+    "damageVsEntity": 50.0,
+    "usageCount": 10000,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

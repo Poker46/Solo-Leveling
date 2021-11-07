@@ -1,0 +1,9 @@
+{
+  "parent": "sololeveling:custom/broadsword",
+  "textures": {
+    "0": "sololeveling:blocks/redstone_block",
+    "1": "sololeveling:blocks/crying_obsidian",
+    "2": "sololeveling:blocks/amethyst_block",
+    "particle": "sololeveling:items/finalsword"
+  }
+}

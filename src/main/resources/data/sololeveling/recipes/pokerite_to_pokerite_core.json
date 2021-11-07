@@ -1,0 +1,37 @@
+{
+  "group": "sololeveling",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sololeveling:pokerite"
+    },
+    {
+      "item": "sololeveling:pokerite"
+    },
+    {
+      "item": "sololeveling:pokerite"
+    },
+    {
+      "item": "sololeveling:pokerite"
+    },
+    {
+      "item": "sololeveling:pokerite"
+    },
+    {
+      "item": "sololeveling:pokerite"
+    },
+    {
+      "item": "sololeveling:pokerite"
+    },
+    {
+      "item": "sololeveling:pokerite"
+    },
+    {
+      "item": "sololeveling:pokerite"
+    }
+  ],
+  "result": {
+    "item": "sololeveling:pokerite_core",
+    "count": 1
+  }
+}

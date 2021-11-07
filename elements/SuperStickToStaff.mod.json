@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SuperStick"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SuperStick"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SuperStick"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:TrainingStaff"
+    },
+    "name": "super_stick_to_staff",
+    "namespace": "mod"
+  }
+}

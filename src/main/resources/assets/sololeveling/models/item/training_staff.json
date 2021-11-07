@@ -1,0 +1,7 @@
+{
+  "parent": "sololeveling:custom/training_staff",
+  "textures": {
+    "0": "sololeveling:blocks/marrone",
+    "particle": "sololeveling:items/staff"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "sololeveling:custom/martello",
+  "textures": {
+    "0": "sololeveling:blocks/stripped_oak_log",
+    "1": "sololeveling:blocks/gold_block",
+    "2": "sololeveling:blocks/netherite_block_1",
+    "particle": "sololeveling:items/hammer"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "sololeveling",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "1": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "2": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "3": {
+      "item": "minecraft:gold_block"
+    },
+    "4": {
+      "item": "sololeveling:super_stick"
+    },
+    "5": {
+      "item": "minecraft:gold_block"
+    },
+    "6": {
+      "item": "minecraft:gold_block"
+    },
+    "7": {
+      "item": "sololeveling:super_stick"
+    },
+    "8": {
+      "item": "minecraft:gold_block"
+    }
+  },
+  "result": {
+    "item": "sololeveling:netherite_hammer",
+    "count": 1
+  }
+}
