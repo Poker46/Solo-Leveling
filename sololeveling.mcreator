@@ -270,9 +270,61 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "destroyer"
+    },
+    {
+      "name": "CustomMob",
+      "type": "tag",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "custom_mob"
+    },
+    {
+      "name": "CustomBoss",
+      "type": "tag",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "custom_boss"
+    },
+    {
+      "name": "UpdateLevel",
+      "type": "procedure",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "update_level",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "sourceentity",
+            "type": "entity"
+          }
+        ]
+      }
     }
   ],
-  "variable_elements": [],
+  "variable_elements": [
+    {
+      "name": "level",
+      "type": "number",
+      "scope": "player_persistent",
+      "value": "0"
+    },
+    {
+      "name": "level_progress",
+      "type": "number",
+      "scope": "player_persistent",
+      "value": "0"
+    }
+  ],
   "sound_elements": [],
   "language_map": {
     "en_us": {
