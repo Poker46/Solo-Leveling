@@ -81,6 +81,11 @@ public class UpdateLevelProcedure {
 							capability.syncPlayerVariables(sourceentity);
 						});
 					}
+					{
+						Map<String, Object> $_dependencies = new HashMap<>();
+						$_dependencies.put("sourceentity", sourceentity);
+						ApplyLevelEffectsProcedure.executeProcedure($_dependencies);
+					}
 				}
 			} else if ((EntityTypeTags.getCollection().getTagByID(new ResourceLocation(("forge:custom_boss").toLowerCase(java.util.Locale.ENGLISH)))
 					.contains(entity.getType()))) {
@@ -108,6 +113,11 @@ public class UpdateLevelProcedure {
 							capability.level_progress = _setval;
 							capability.syncPlayerVariables(sourceentity);
 						});
+					}
+					{
+						Map<String, Object> $_dependencies = new HashMap<>();
+						$_dependencies.put("sourceentity", sourceentity);
+						ApplyLevelEffectsProcedure.executeProcedure($_dependencies);
 					}
 				}
 			}
